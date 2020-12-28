@@ -11,7 +11,7 @@
 This project is an app that will enable residents of the Ruth Sabin Home to report maintenance issues so that the Darrin and Ray will be notified and know what needs to be addressed.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+[Evaluation of app across the following attributes]
 - **Category:** Productivity
 - **Story:** This app allows users to enter in details about maintenance issue, take a photo of the issue and report it.
 - **Market:** This app targets the residents of the Ruth Sabin Home.
